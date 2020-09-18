@@ -1,0 +1,1 @@
+Do not delete HmacAlgorithms.class or HmacUtils.class or H2GEM will crash when saving a H2X gametype.

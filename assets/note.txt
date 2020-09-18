@@ -1,0 +1,5 @@
+SaveImage.xbx is the save data image for H2X gametypes. It is included here so that it can be copied to Halo 2 gametypes that are missing it, or copied when converting H2V gametypes that have had this file deleted (as it isn't needed for H2V) to H2X gametypes.
+
+secretkey contains the raw hexidecimal bytes for the secret key needed to sign Halo 2 gametypes for use on the Xbox. If you delete it, you will not be able to edit H2X gametypes or convert H2V gametypes to H2X gametypes. If you want to edit gametypes for a Halo 2 mod, you may want to backup the secretkey file, and edit it with the secret key for that mod. To tell if you need to change the secret key, just edit a gametype for the mod, then try to load it up. If it claims it is corrupt, you need a different secret key. You can use this python script and a copy of the Halo 2 mod's xbe file to generate the correct key, then just use a hex editor to save that to a file: https://github.com/PMStanley/xbox-save-sig
+
+If in doubt, then don't edit or delete secretkey.

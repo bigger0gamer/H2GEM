@@ -1,0 +1,8 @@
+To Windows users: This folder shouldn't be needed, don't worry about it.
+
+To Mac/Linux users: Copy your H2V gametypes here from the appropraite wine folder to edit or manage them. You can also start H2GEM with these arguments:
+
+java H2GEM -ap <absolute path to Saved Games>
+java H2GEM -wp <path to your H2V wine prefix>
+
+-ap will try to find H2V gametypes in the given directory. -wp will try to find H2V gametypes in <argument path>/drive_c/users/<user>/Local Settings/Application Data/Microsoft/Halo 2/Saved Games/, where <user> is your local linux username. 

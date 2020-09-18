@@ -1,0 +1,1 @@
+If you want to edit or manage H2X gametypes, FTP the contents of /E/UDATA/4d530064 into here, then when you are done, FTP them back. 
