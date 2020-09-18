@@ -17,7 +17,7 @@ Welcome to H2GEM~!! This program allows you to manage and edit all of your Halo 
 - Generate a list.txt file that lists all of your gametypes by name and gamemode, and the folder they are contained in for H2X and H2V gametypes. Find and share/copy your favorite gametypes easily!
 
 
-USAGE
+Usage
 =====
 
 This program requires the Java Runtime Environment to run. To run, simply use `java H2GEM` in the H2GEM directory. Windows users can just double click on `run.bat` instead (you may not see the file extension). A command prompt window will appear with the program in it. This program runs entirely in the command line, as I was too lazy to bother with a GUI. To select options, just enter the number or letter corresponding to the desired option into the terminal, and hit enter. 
