@@ -30,7 +30,7 @@ For H2V gametypes, on Windows H2GEM will edit and convert your gametypes directl
 Copyrights & Respects
 =====================
 
-This program has been released with no copyright license because honestly I can't be bothered to fuck with copyright shit. Source code is included, along with a text file that documents all the variables in Halo 2 gametypes and all the possible options for them, so feel free to modify or use this code as you please, but be sure to credit me if you use it or the reference document for any of your projects!
+This program has been released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You're free to use, modify, and/or distribute this work. Source code is included, along with a text file that documents all the variables in Halo 2 gametypes and all the possible options for them, so feel free to modify or use this code as you please, but be sure to credit me if you use it or the reference document for any of your projects!
 
 I'd like to make a special thanks to M0niak and Divine1gore for being cool people, even if I haven't talked to either of you in ages.
 
