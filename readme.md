@@ -1,3 +1,7 @@
+# THIS TOOL SUCKS. It was built for newer versions of java (like Jave 15 or 15? IDR.) and doesn't include it (you'll have to go get the JDK or the OpenJRE equivalant), just for a tool with a frankly shit command line interface menu. It can't even make gametypes from scratch, only modify existing ones. Still useful for someone mass converting gametypes from H2V -> H2X or back, but this tool doesn't even accept useful command arguments for use in scripting so you'd have to do it manually. I might make a better GUI version of this some day, but that day isn't likely to be today, or soon. Use at your own risk!
+
+
+
 Description
 ===========
 
